@@ -84,6 +84,6 @@ mvn clean javafx:run
 
 **Abdelkarim El Hajbi**  
 Étudiant en Master Big Data & Cloud Computing  
-📧 [ton.email@example.com](mailto:abdelkarimelhajbi@gmail.com)  
+📧 [abdelkarimelhajbi@gmail.com](mailto:abdelkarimelhajbi@gmail.com)  
 🌐 [GitHub](https://github.com/Elhajbi) • [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-hajbi-65b783160/)
 
