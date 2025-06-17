@@ -65,9 +65,9 @@ mvn clean javafx:run
 ```
 ## 📸 Aperçu visuel
 
-| Onglet Patients                      | Onglet Consultations                           |
-|--------------------------------------|------------------------------------------------|
-| ![Patients](screenshots/Patient.PNG) | ![Consultations](screenshots/consultation.PNG) |
+| Onglet Patients                                                          | Onglet Consultations                           |
+|--------------------------------------                                    |------------------------------------------------|
+| ![Patients](screenshots/Patient.PNG)                                      | ![Consultations](screenshots/consultation.PNG) |
 
 
 
@@ -84,6 +84,6 @@ mvn clean javafx:run
 
 **Abdelkarim El Hajbi**  
 Étudiant en Master Big Data & Cloud Computing  
-📧 [ton.email@example.com](mailto:ton.email@example.com)  
-🌐 [GitHub](https://github.com/Elhajbi) • [LinkedIn](https://linkedin.com/in/tonprofil)
+📧 [ton.email@example.com](mailto:abdelkarimelhajbi@gmail.com)  
+🌐 [GitHub](https://github.com/Elhajbi) • [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-hajbi-65b783160/)
 
