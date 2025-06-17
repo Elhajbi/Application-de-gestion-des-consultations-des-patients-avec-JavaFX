@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88481548-0d6f-4d5d-9178-705b0662c3d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Consultation.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Patient.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/controllers/ConsultationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/controllers/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/dao/ConsultationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/dao/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/dao/IConsultationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/dao/IPatientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/dao/PatientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/entities/Consultation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/entities/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/service/CabinetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/service/ICabinetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/gestionconsultation/service/ServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ma/enset/gestionconsultation/views/consultations-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ma/enset/gestionconsultation/views/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ma/enset/gestionconsultation/views/patients-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/controllers/ConsultationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/controllers/PatientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/dao/ConsultationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/dao/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/dao/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/dao/IConsultationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/dao/IPatientDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/dao/PatientDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/entities/Consultation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/entities/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/service/CabinetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/service/ICabinetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/service/ServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/views/consultations-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/views/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ma/enset/gestionconsultation/views/patients-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2umzY6oM0Hfj8obrQsX70zR2LnH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.ServiceTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3875124",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RPC\IdeaProjects\Tp-Socket2025\Gestion-Consultation\screenshots" />
+      <recent name="C:\Users\RPC\IdeaProjects\Tp-Socket2025\Gestion-Consultation\sceenshots" />
+      <recent name="C:\Users\RPC\IdeaProjects\Tp-Socket2025\Gestion-Consultation" />
+      <recent name="C:\Users\RPC\IdeaProjects\Tp-Socket2025\Gestion-Consultation\.idea" />
+      <recent name="C:\Users\RPC\IdeaProjects\Tp-Socket2025\Gestion-Consultation\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.enset.gestionconsultation.Main" />
+      <module name="Gestion-Consultation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.enset.gestionconsultation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.enset.gestionconsultation.service.ServiceTest" />
+      <module name="Gestion-Consultation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.enset.gestionconsultation.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88481548-0d6f-4d5d-9178-705b0662c3d1" name="Changes" comment="" />
+      <created>1742868583902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742868583902</updated>
+      <workItem from="1742868585710" duration="4166000" />
+      <workItem from="1742921779016" duration="8965000" />
+      <workItem from="1743078935033" duration="10000" />
+      <workItem from="1743078957168" duration="3936000" />
+      <workItem from="1743084337125" duration="4207000" />
+      <workItem from="1743088628751" duration="8496000" />
+      <workItem from="1743183838957" duration="3795000" />
+      <workItem from="1743261524472" duration="9000" />
+      <workItem from="1743262069819" duration="1439000" />
+      <workItem from="1746790809901" duration="1172000" />
+      <workItem from="1747231948240" duration="1015000" />
+      <workItem from="1750025232608" duration="182000" />
+      <workItem from="1750099141990" duration="1290000" />
+      <workItem from="1750168073116" duration="6955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
