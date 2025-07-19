@@ -67,7 +67,7 @@ mvn clean javafx:run
 
 | Onglet Patients                                                          | Onglet Consultations                           |
 |--------------------------------------                                    |------------------------------------------------|
-| ![Patients](screenshots/Patient.PNG)                                      | ![Consultations](screenshots/consultation.PNG) |
+| ![Patients](screenshots/Patient.PNG)                                      | ![Consultations](screenshots/Consultation.PNG) |
 
 
 
